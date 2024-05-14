@@ -1,0 +1,4 @@
+repository "Survival Chaos 2@Devulo@cloud"
+  path "/"
+    br "/main"
+    co "/main"

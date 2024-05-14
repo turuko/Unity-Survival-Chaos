@@ -1,0 +1,20 @@
+{
+    "name": "JustAssets.ColliderUtilityRuntime",
+    "rootNamespace": "JustAssets.ColliderUtilityRuntime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.vehicles",
+            "expression": "1.0.0",
+            "define": "UNITY_MODULE_VEHICLES"
+        }
+    ],
+    "noEngineReferences": false
+}

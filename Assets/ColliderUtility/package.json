@@ -1,0 +1,11 @@
+{
+  "name": "de.justassets.colliderutility",
+  "displayName": "JustAssets ColliderUtility",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "keywords": [],
+  "category": "Tools",
+  "type": "tool",
+  "dependencies": {
+  }
+}
